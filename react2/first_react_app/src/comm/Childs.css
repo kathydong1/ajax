@@ -1,0 +1,14 @@
+p{
+  font-size:24px;
+  float:left;
+  margin:0;
+  padding:0;
+  display: inline-block;
+}
+li{
+  display: block;
+  overflow: hidden;
+}
+input{
+  display: inline-block;
+}
